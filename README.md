@@ -1,9 +1,7 @@
 # Momotan-Start
 一个 MD3 风格的极简起始页  
 A minimalist starting page in Material Design 3 style  
-v1.0.86  
-在线体验 / Online experience:  
-https://momotan.cc/
+在线体验 / Online experience: https://momotan.cc/  
 
 <img width="1977" height="1449" alt="image" src="https://github.com/user-attachments/assets/0c1570fb-d058-4dfd-8e5a-a321b07e8d80" />
 <img width="1978" height="1451" alt="image" src="https://github.com/user-attachments/assets/6067b29e-56cf-459d-84c8-7241a2294714" />
@@ -38,4 +36,6 @@ Support hiding logo and footer information
 Support turning off some animations and effects to reduce performance pressure
   
 **Multi language support**  
-Supports Simplified Chinese, Traditional Chinese, English, and Japanese
+Supports Simplified Chinese, Traditional Chinese, English, and Japanese  
+  
+v1.0.86  
