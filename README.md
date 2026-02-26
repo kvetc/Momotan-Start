@@ -7,7 +7,6 @@ A minimalist starting page in Material Design 3 style
 ![2](https://github.com/user-attachments/assets/7b1c92eb-ad58-4ff2-9ab8-f9048818e940)
 ![3](https://github.com/user-attachments/assets/868996f6-3d42-41c5-aebd-f51834f64dee)
 ![4](https://github.com/user-attachments/assets/d2c0a636-0f9f-48cb-a81f-bce97aed7024)
-![5](https://github.com/user-attachments/assets/57a6e39c-2b87-4f52-84d5-14159e3b88c7)
 ![6](https://github.com/user-attachments/assets/da429fbc-c5a7-4e2a-b308-1ec2343e8600)
 ![7](https://github.com/user-attachments/assets/22ed5e40-3333-4d35-b3dd-9691efa7696d)
 
