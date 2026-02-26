@@ -3,10 +3,13 @@
 A minimalist starting page in Material Design 3 style  
 在线体验 / Online experience: https://momotan.cc/  
 
-<img width="1977" height="1449" alt="image" src="https://github.com/user-attachments/assets/0c1570fb-d058-4dfd-8e5a-a321b07e8d80" />
-<img width="1978" height="1451" alt="image" src="https://github.com/user-attachments/assets/6067b29e-56cf-459d-84c8-7241a2294714" />
-<img width="2208" height="1463" alt="96915ffddbee197cb885f228a71455d3" src="https://github.com/user-attachments/assets/fe89bbde-450c-494c-b102-389c9602b6ca" />
-<img width="1280" height="850" alt="a7ed8bcf71283a8cb7d06b483aa1da21" src="https://github.com/user-attachments/assets/7c1a9843-09d3-439f-a448-2f6082d24906" />
+![1](https://github.com/user-attachments/assets/10c53f54-3d6f-4871-babd-aee61ac31099)
+![2](https://github.com/user-attachments/assets/7b1c92eb-ad58-4ff2-9ab8-f9048818e940)
+![3](https://github.com/user-attachments/assets/868996f6-3d42-41c5-aebd-f51834f64dee)
+![4](https://github.com/user-attachments/assets/d2c0a636-0f9f-48cb-a81f-bce97aed7024)
+![5](https://github.com/user-attachments/assets/57a6e39c-2b87-4f52-84d5-14159e3b88c7)
+![6](https://github.com/user-attachments/assets/da429fbc-c5a7-4e2a-b308-1ec2343e8600)
+![7](https://github.com/user-attachments/assets/22ed5e40-3333-4d35-b3dd-9691efa7696d)
 
 **简洁但不简陋**  
 多搜索引擎、多来源搜索建议、搜索历史记录、识别并打开输入的网址、自定义网站捷径、便签与笔记……  
@@ -38,4 +41,4 @@ Support turning off some animations and effects to reduce performance pressure
 **Multi language support**  
 Supports Simplified Chinese, Traditional Chinese, English, and Japanese  
   
-v1.0.86  
+v1.0.93 26/01/29  
